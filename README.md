@@ -35,18 +35,4 @@ This project is designed for educational purposes, helping players learn and rei
 ## 📂 Installation & Setup
 
 To run the game locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/recycling-game.git
-   ```
-2. Open `index.html` in a web browser.
-
-Enjoy sorting and improving your recycling skills with each level!
-
-## 🖼️ Preview
-
-![Game Preview](path/to/screenshot.png)
-
----
-
-Feel free to edit and expand based on the specifics of your project. Let me know if you'd like a detailed section on gameplay logic, code structure, or future plans for the game!
+recyclingsortinggame.tiiny.site
